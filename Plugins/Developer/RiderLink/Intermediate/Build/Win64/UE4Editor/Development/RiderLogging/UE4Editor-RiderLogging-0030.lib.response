@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RiderLogging-0030.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLogging\RiderLogging.cpp.obj"
+"E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLogging\RiderOutputDevice.cpp.obj"
+"E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLogging\Default.rc2.res"
+/OUT:"E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLogging\UE4Editor-RiderLogging-0030.lib"

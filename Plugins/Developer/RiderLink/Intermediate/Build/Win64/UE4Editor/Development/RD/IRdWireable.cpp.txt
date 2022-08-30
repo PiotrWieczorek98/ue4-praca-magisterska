@@ -1,0 +1,207 @@
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\Definitions.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdWireable.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/RdId.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Buffer.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/DateTime.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/hash.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\functional
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\yvals_core.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\sal.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\concurrencysal.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\vadefs.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xkeycheck.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\exception
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\yvals.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime_new_debug.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime_new.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\crtdefs.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\use_ansi.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\type_traits
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cstdint
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\stdint.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xstddef
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cstddef
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xtr1common
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cstdlib
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\stdlib.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\limits.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\initializer_list
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime_exception.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\eh.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\tuple
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xutility
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\climits
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cstring
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\string.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime_string.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\utility
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\typeinfo
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime_typeinfo.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xmemory
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\limits
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cfloat
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\float.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cwchar
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cstdio
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wctype.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wprocess.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\sys/stat.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\sys/types.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\intrin0.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\intrin0.inl.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\isa_availability.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\new
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xatomic.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\memory
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\iosfwd
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\unordered_map
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xhash
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cmath
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\list
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xpolymorphic_allocator.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\vector
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xbit_ops.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xstring
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xnode_handle.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\ctime
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\string
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cctype
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\rd_core_export.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_util.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\erase_if.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\gen_util.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/allocator.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\overloaded.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\shared_function.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/to_string.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\thread
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\chrono
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\ratio
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xtimec.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\process.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_startup.h
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime_startup.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xthreads.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\sstream
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\istream
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\ostream
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\ios
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xlocnum
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\iterator
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\streambuf
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xiosbase
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\system_error
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\__msvc_system_error_abi.hpp
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cerrno
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\stdexcept
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xcall_once.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xerrc.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\atomic
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xlocale
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xfacet
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xlocinfo
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\__msvc_xlocinfo_types.hpp
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\clocale
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\future
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\condition_variable
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\mutex
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\ppltasks.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\pplwin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\pplinterface.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\ppltaskscheduler.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\crtdefs.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\pplcancellation_token.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\algorithm
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\intrin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\setjmp.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\immintrin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\wmmintrin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\nmmintrin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\smmintrin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\tmmintrin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\pmmintrin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\emmintrin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xmmintrin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\mmintrin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\zmmintrin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\ammintrin.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\locale
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xlocbuf
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xlocmes
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xlocmon
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\xloctime
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\codecvt
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\thirdparty.hpp
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_set.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\deque
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl\ordered_hash.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cassert
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_map.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl\optional.hpp
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark/variant.hpp
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\config.hpp
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\in_place.hpp
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\lib.hpp
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include\nonstd/string_view.hpp
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cassert
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/wrapper.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_traits.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/Void.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/spdlog.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/common.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/tweakme.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/null_mutex.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/fmt.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/core.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\string_view
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/format.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/registry.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/cfg/log_levels.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/logger.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/backtracer.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg_buffer.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/circular_q.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cassert
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/os.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/version.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/synchronous_factory.h
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\iostream
+E:\Projects\Visual Studio\VC\Tools\MSVC\14.32.31326\INCLUDE\cassert
+E:\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/list.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\rd_framework_export.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\hashing.h
+E:\Projects\Unreal Engine Projects\PracaMagisterska\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler/base/IScheduler.h

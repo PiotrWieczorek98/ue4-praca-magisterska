@@ -1,0 +1,483 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <math.h>
+
+int predict(float features[144]) {
+
+    int classes[16];
+        
+    if (features[135] <= 84.56600189208984) {
+        if (features[62] <= -8.21399974822998) {
+            classes[0] = 0; 
+            classes[1] = 0; 
+            classes[2] = 0; 
+            classes[3] = 0; 
+            classes[4] = 0; 
+            classes[5] = 0; 
+            classes[6] = 0; 
+            classes[7] = 0; 
+            classes[8] = 0; 
+            classes[9] = 0; 
+            classes[10] = 0; 
+            classes[11] = 0; 
+            classes[12] = 81; 
+            classes[13] = 0; 
+            classes[14] = 0; 
+            classes[15] = 0; 
+        } else {
+            if (features[16] <= -9.626500129699707) {
+                if (features[42] <= 0.9995000064373016) {
+                    classes[0] = 0; 
+                    classes[1] = 0; 
+                    classes[2] = 0; 
+                    classes[3] = 0; 
+                    classes[4] = 0; 
+                    classes[5] = 0; 
+                    classes[6] = 0; 
+                    classes[7] = 86; 
+                    classes[8] = 0; 
+                    classes[9] = 0; 
+                    classes[10] = 0; 
+                    classes[11] = 0; 
+                    classes[12] = 0; 
+                    classes[13] = 0; 
+                    classes[14] = 0; 
+                    classes[15] = 0; 
+                } else {
+                    classes[0] = 0; 
+                    classes[1] = 0; 
+                    classes[2] = 0; 
+                    classes[3] = 0; 
+                    classes[4] = 0; 
+                    classes[5] = 0; 
+                    classes[6] = 0; 
+                    classes[7] = 0; 
+                    classes[8] = 0; 
+                    classes[9] = 0; 
+                    classes[10] = 0; 
+                    classes[11] = 0; 
+                    classes[12] = 0; 
+                    classes[13] = 0; 
+                    classes[14] = 4; 
+                    classes[15] = 0; 
+                }
+            } else {
+                if (features[13] <= -6.6584999561309814) {
+                    classes[0] = 0; 
+                    classes[1] = 0; 
+                    classes[2] = 0; 
+                    classes[3] = 0; 
+                    classes[4] = 0; 
+                    classes[5] = 0; 
+                    classes[6] = 80; 
+                    classes[7] = 0; 
+                    classes[8] = 0; 
+                    classes[9] = 0; 
+                    classes[10] = 0; 
+                    classes[11] = 0; 
+                    classes[12] = 0; 
+                    classes[13] = 0; 
+                    classes[14] = 0; 
+                    classes[15] = 0; 
+                } else {
+                    if (features[82] <= 51.45199966430664) {
+                        if (features[133] <= -5.864000082015991) {
+                            if (features[128] <= 14.436498641967773) {
+                                classes[0] = 0; 
+                                classes[1] = 0; 
+                                classes[2] = 0; 
+                                classes[3] = 0; 
+                                classes[4] = 0; 
+                                classes[5] = 0; 
+                                classes[6] = 0; 
+                                classes[7] = 0; 
+                                classes[8] = 0; 
+                                classes[9] = 83; 
+                                classes[10] = 0; 
+                                classes[11] = 0; 
+                                classes[12] = 0; 
+                                classes[13] = 0; 
+                                classes[14] = 0; 
+                                classes[15] = 0; 
+                            } else {
+                                if (features[84] <= -4.096000671386719) {
+                                    classes[0] = 0; 
+                                    classes[1] = 0; 
+                                    classes[2] = 0; 
+                                    classes[3] = 0; 
+                                    classes[4] = 0; 
+                                    classes[5] = 0; 
+                                    classes[6] = 0; 
+                                    classes[7] = 0; 
+                                    classes[8] = 0; 
+                                    classes[9] = 0; 
+                                    classes[10] = 75; 
+                                    classes[11] = 0; 
+                                    classes[12] = 0; 
+                                    classes[13] = 0; 
+                                    classes[14] = 0; 
+                                    classes[15] = 0; 
+                                } else {
+                                    classes[0] = 0; 
+                                    classes[1] = 0; 
+                                    classes[2] = 78; 
+                                    classes[3] = 0; 
+                                    classes[4] = 0; 
+                                    classes[5] = 0; 
+                                    classes[6] = 0; 
+                                    classes[7] = 0; 
+                                    classes[8] = 0; 
+                                    classes[9] = 0; 
+                                    classes[10] = 0; 
+                                    classes[11] = 0; 
+                                    classes[12] = 0; 
+                                    classes[13] = 0; 
+                                    classes[14] = 0; 
+                                    classes[15] = 0; 
+                                }
+                            }
+                        } else {
+                            if (features[86] <= 111.93899917602539) {
+                                if (features[54] <= 2.05649995803833) {
+                                    if (features[62] <= -2.519999921321869) {
+                                        classes[0] = 0; 
+                                        classes[1] = 0; 
+                                        classes[2] = 0; 
+                                        classes[3] = 0; 
+                                        classes[4] = 79; 
+                                        classes[5] = 0; 
+                                        classes[6] = 0; 
+                                        classes[7] = 0; 
+                                        classes[8] = 0; 
+                                        classes[9] = 0; 
+                                        classes[10] = 0; 
+                                        classes[11] = 0; 
+                                        classes[12] = 0; 
+                                        classes[13] = 0; 
+                                        classes[14] = 0; 
+                                        classes[15] = 0; 
+                                    } else {
+                                        classes[0] = 0; 
+                                        classes[1] = 0; 
+                                        classes[2] = 0; 
+                                        classes[3] = 0; 
+                                        classes[4] = 0; 
+                                        classes[5] = 1; 
+                                        classes[6] = 0; 
+                                        classes[7] = 0; 
+                                        classes[8] = 0; 
+                                        classes[9] = 0; 
+                                        classes[10] = 0; 
+                                        classes[11] = 0; 
+                                        classes[12] = 0; 
+                                        classes[13] = 0; 
+                                        classes[14] = 0; 
+                                        classes[15] = 0; 
+                                    }
+                                } else {
+                                    if (features[85] <= 37.970001220703125) {
+                                        if (features[143] <= -72.07400131225586) {
+                                            if (features[90] <= 95.09650039672852) {
+                                                classes[0] = 0; 
+                                                classes[1] = 0; 
+                                                classes[2] = 0; 
+                                                classes[3] = 76; 
+                                                classes[4] = 0; 
+                                                classes[5] = 0; 
+                                                classes[6] = 0; 
+                                                classes[7] = 0; 
+                                                classes[8] = 0; 
+                                                classes[9] = 0; 
+                                                classes[10] = 0; 
+                                                classes[11] = 0; 
+                                                classes[12] = 0; 
+                                                classes[13] = 0; 
+                                                classes[14] = 0; 
+                                                classes[15] = 0; 
+                                            } else {
+                                                classes[0] = 0; 
+                                                classes[1] = 0; 
+                                                classes[2] = 0; 
+                                                classes[3] = 0; 
+                                                classes[4] = 0; 
+                                                classes[5] = 0; 
+                                                classes[6] = 0; 
+                                                classes[7] = 0; 
+                                                classes[8] = 0; 
+                                                classes[9] = 0; 
+                                                classes[10] = 0; 
+                                                classes[11] = 0; 
+                                                classes[12] = 0; 
+                                                classes[13] = 0; 
+                                                classes[14] = 1; 
+                                                classes[15] = 0; 
+                                            }
+                                        } else {
+                                            if (features[115] <= -26.17549991607666) {
+                                                if (features[126] <= -7.608501434326172) {
+                                                    if (features[101] <= 94.49850082397461) {
+                                                        classes[0] = 0; 
+                                                        classes[1] = 0; 
+                                                        classes[2] = 0; 
+                                                        classes[3] = 0; 
+                                                        classes[4] = 1; 
+                                                        classes[5] = 0; 
+                                                        classes[6] = 0; 
+                                                        classes[7] = 0; 
+                                                        classes[8] = 0; 
+                                                        classes[9] = 0; 
+                                                        classes[10] = 0; 
+                                                        classes[11] = 0; 
+                                                        classes[12] = 0; 
+                                                        classes[13] = 0; 
+                                                        classes[14] = 0; 
+                                                        classes[15] = 0; 
+                                                    } else {
+                                                        classes[0] = 0; 
+                                                        classes[1] = 0; 
+                                                        classes[2] = 0; 
+                                                        classes[3] = 0; 
+                                                        classes[4] = 0; 
+                                                        classes[5] = 0; 
+                                                        classes[6] = 0; 
+                                                        classes[7] = 0; 
+                                                        classes[8] = 0; 
+                                                        classes[9] = 0; 
+                                                        classes[10] = 0; 
+                                                        classes[11] = 0; 
+                                                        classes[12] = 0; 
+                                                        classes[13] = 0; 
+                                                        classes[14] = 2; 
+                                                        classes[15] = 0; 
+                                                    }
+                                                } else {
+                                                    classes[0] = 82; 
+                                                    classes[1] = 0; 
+                                                    classes[2] = 0; 
+                                                    classes[3] = 0; 
+                                                    classes[4] = 0; 
+                                                    classes[5] = 0; 
+                                                    classes[6] = 0; 
+                                                    classes[7] = 0; 
+                                                    classes[8] = 0; 
+                                                    classes[9] = 0; 
+                                                    classes[10] = 0; 
+                                                    classes[11] = 0; 
+                                                    classes[12] = 0; 
+                                                    classes[13] = 0; 
+                                                    classes[14] = 0; 
+                                                    classes[15] = 0; 
+                                                }
+                                            } else {
+                                                if (features[21] <= -1.934999942779541) {
+                                                    if (features[58] <= -8.64650011062622) {
+                                                        classes[0] = 0; 
+                                                        classes[1] = 0; 
+                                                        classes[2] = 0; 
+                                                        classes[3] = 0; 
+                                                        classes[4] = 0; 
+                                                        classes[5] = 0; 
+                                                        classes[6] = 0; 
+                                                        classes[7] = 0; 
+                                                        classes[8] = 0; 
+                                                        classes[9] = 0; 
+                                                        classes[10] = 0; 
+                                                        classes[11] = 0; 
+                                                        classes[12] = 0; 
+                                                        classes[13] = 0; 
+                                                        classes[14] = 73; 
+                                                        classes[15] = 0; 
+                                                    } else {
+                                                        classes[0] = 0; 
+                                                        classes[1] = 0; 
+                                                        classes[2] = 0; 
+                                                        classes[3] = 0; 
+                                                        classes[4] = 0; 
+                                                        classes[5] = 0; 
+                                                        classes[6] = 0; 
+                                                        classes[7] = 0; 
+                                                        classes[8] = 0; 
+                                                        classes[9] = 1; 
+                                                        classes[10] = 0; 
+                                                        classes[11] = 0; 
+                                                        classes[12] = 0; 
+                                                        classes[13] = 0; 
+                                                        classes[14] = 0; 
+                                                        classes[15] = 0; 
+                                                    }
+                                                } else {
+                                                    classes[0] = 0; 
+                                                    classes[1] = 0; 
+                                                    classes[2] = 0; 
+                                                    classes[3] = 0; 
+                                                    classes[4] = 0; 
+                                                    classes[5] = 0; 
+                                                    classes[6] = 0; 
+                                                    classes[7] = 0; 
+                                                    classes[8] = 72; 
+                                                    classes[9] = 0; 
+                                                    classes[10] = 0; 
+                                                    classes[11] = 0; 
+                                                    classes[12] = 0; 
+                                                    classes[13] = 0; 
+                                                    classes[14] = 0; 
+                                                    classes[15] = 0; 
+                                                }
+                                            }
+                                        }
+                                    } else {
+                                        classes[0] = 0; 
+                                        classes[1] = 0; 
+                                        classes[2] = 0; 
+                                        classes[3] = 0; 
+                                        classes[4] = 0; 
+                                        classes[5] = 0; 
+                                        classes[6] = 0; 
+                                        classes[7] = 0; 
+                                        classes[8] = 0; 
+                                        classes[9] = 0; 
+                                        classes[10] = 0; 
+                                        classes[11] = 0; 
+                                        classes[12] = 0; 
+                                        classes[13] = 76; 
+                                        classes[14] = 0; 
+                                        classes[15] = 0; 
+                                    }
+                                }
+                            } else {
+                                if (features[127] <= 19.327000617980957) {
+                                    classes[0] = 0; 
+                                    classes[1] = 0; 
+                                    classes[2] = 0; 
+                                    classes[3] = 0; 
+                                    classes[4] = 0; 
+                                    classes[5] = 79; 
+                                    classes[6] = 0; 
+                                    classes[7] = 0; 
+                                    classes[8] = 0; 
+                                    classes[9] = 0; 
+                                    classes[10] = 0; 
+                                    classes[11] = 0; 
+                                    classes[12] = 0; 
+                                    classes[13] = 0; 
+                                    classes[14] = 0; 
+                                    classes[15] = 0; 
+                                } else {
+                                    classes[0] = 0; 
+                                    classes[1] = 0; 
+                                    classes[2] = 0; 
+                                    classes[3] = 0; 
+                                    classes[4] = 0; 
+                                    classes[5] = 0; 
+                                    classes[6] = 0; 
+                                    classes[7] = 0; 
+                                    classes[8] = 0; 
+                                    classes[9] = 0; 
+                                    classes[10] = 0; 
+                                    classes[11] = 0; 
+                                    classes[12] = 0; 
+                                    classes[13] = 0; 
+                                    classes[14] = 0; 
+                                    classes[15] = 79; 
+                                }
+                            }
+                        }
+                    } else {
+                        if (features[91] <= 37.49349927902222) {
+                            classes[0] = 0; 
+                            classes[1] = 83; 
+                            classes[2] = 0; 
+                            classes[3] = 0; 
+                            classes[4] = 0; 
+                            classes[5] = 0; 
+                            classes[6] = 0; 
+                            classes[7] = 0; 
+                            classes[8] = 0; 
+                            classes[9] = 0; 
+                            classes[10] = 0; 
+                            classes[11] = 0; 
+                            classes[12] = 0; 
+                            classes[13] = 0; 
+                            classes[14] = 0; 
+                            classes[15] = 0; 
+                        } else {
+                            if (features[104] <= 5.576999664306641) {
+                                classes[0] = 0; 
+                                classes[1] = 0; 
+                                classes[2] = 0; 
+                                classes[3] = 0; 
+                                classes[4] = 0; 
+                                classes[5] = 0; 
+                                classes[6] = 0; 
+                                classes[7] = 0; 
+                                classes[8] = 0; 
+                                classes[9] = 0; 
+                                classes[10] = 2; 
+                                classes[11] = 0; 
+                                classes[12] = 0; 
+                                classes[13] = 0; 
+                                classes[14] = 0; 
+                                classes[15] = 0; 
+                            } else {
+                                classes[0] = 0; 
+                                classes[1] = 0; 
+                                classes[2] = 0; 
+                                classes[3] = 0; 
+                                classes[4] = 0; 
+                                classes[5] = 0; 
+                                classes[6] = 0; 
+                                classes[7] = 0; 
+                                classes[8] = 0; 
+                                classes[9] = 0; 
+                                classes[10] = 0; 
+                                classes[11] = 0; 
+                                classes[12] = 0; 
+                                classes[13] = 1; 
+                                classes[14] = 0; 
+                                classes[15] = 0; 
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    } else {
+        classes[0] = 0; 
+        classes[1] = 0; 
+        classes[2] = 0; 
+        classes[3] = 0; 
+        classes[4] = 0; 
+        classes[5] = 0; 
+        classes[6] = 0; 
+        classes[7] = 0; 
+        classes[8] = 0; 
+        classes[9] = 0; 
+        classes[10] = 0; 
+        classes[11] = 85; 
+        classes[12] = 0; 
+        classes[13] = 0; 
+        classes[14] = 0; 
+        classes[15] = 0; 
+    }
+
+    int index = 0;
+    for (int i = 0; i < 16; i++) {
+        index = classes[i] > classes[index] ? i : index;
+    }
+    return index;
+}
+
+int main(int argc, const char * argv[]) {
+
+    /* Features: */
+    double features[argc-1];
+    int i;
+    for (i = 1; i < argc; i++) {
+        features[i-1] = atof(argv[i]);
+    }
+
+    /* Prediction: */
+    printf("%d", predict(features));
+    return 0;
+
+}
